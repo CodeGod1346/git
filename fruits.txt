@@ -2,3 +2,4 @@ banana
 orange
 pineapple
 mango
+lychee
